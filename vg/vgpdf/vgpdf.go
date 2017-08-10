@@ -15,6 +15,7 @@ import (
 	"math"
 
 	"bitbucket.org/zombiezen/gopdf/pdf"
+
 	"gonum.org/v1/plot/vg"
 )
 

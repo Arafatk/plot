@@ -18,6 +18,7 @@ import (
 	"math"
 
 	svgo "github.com/ajstarks/svgo"
+
 	"gonum.org/v1/plot/vg"
 )
 
