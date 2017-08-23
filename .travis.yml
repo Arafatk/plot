@@ -2,7 +2,6 @@ sudo: false
 
 language: go
 
-# Versions of go that are explicitly supported by gonum.
 go:
  - 1.6.x
  - 1.7.x
